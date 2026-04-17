@@ -1,0 +1,17 @@
+Este apartado es para terminar el bloque de formas de patrón de módulos, y poder irme a dormir a pesar del cansancio.
+
+Fecha: 16 de abril del 2026 a las 10:51 p.m.
+
+CJS (Common Js):
+Este es un patrón común y bastante clásico, 
+
+para exportar, primero debo crear la función y luego debo utilizar el module.exports = {
+    funcion : funcion
+}
+
+y para importar debo declarar una constante con el nombre de la función y requiero el archivo.
+
+Mjs (Edma Js):
+la versión estandarizada consiste en que en la exportación solo uso la palabra export y ya  estaría exportándola.
+
+Y para importar, solo escribo import, el nombre de la función con from "ubicación archivo."
