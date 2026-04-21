@@ -1,0 +1,8 @@
+Node js al ser un entorno de ejecución, me ofrece bastantes bibliotecas de módulos nativos, para acceder a diferentes partes, como biblioteca, internet, etc.
+* Node viene incluido con diferentes módulos.
+
+Hay que tener en cuenta que la antigua forma de tener un módulo era:
+const nombreModulo = require('nombreModulo');
+
+Cosa que ya cambió en la actualidad, dado que actualmente es de la siguiente forma:
+const nombreModulo = require=('node: nombreModulo');

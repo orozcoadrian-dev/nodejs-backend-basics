@@ -1,0 +1,2 @@
+--- MÓDULO NATIVO OS ---
+Este primer módulo me da información del sistema operativo.

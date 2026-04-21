@@ -1,0 +1,5 @@
+1. In a project, it's not recommendable that I used the desing pattern Cjs (Common js) and Mjs (ES Module), it's possible that is not good for the project.
+
+2. It's important that I add the extensions when I'll use something module or archive, this is a good practice in the dessing pattern ESMA SCRIPT MODULES, but in COMMON JS (Cjs) is possible doesn't add the extension because there is a black magic: 'all is authomatic'.
+
+3. I should add the prefix 'node:' when I'll use something module.

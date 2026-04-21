@@ -1,0 +1,5 @@
+--- NATIVE MODULE FS ---
+Is one of the most important, that I'll use always and the more intereset at the time that I use node js.
+
+¿What is the meaning of 'fs' in Spanish?
+the meaning is 'sistema de archivo'. I don't stop to use this module.
